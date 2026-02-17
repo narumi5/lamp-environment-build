@@ -25,7 +25,7 @@ ec2
 7. pm2 list
 ・pm2の稼働状況を確認する
     
-    ![image.png](%E3%82%A2%E3%83%97%E3%83%AA%E5%86%8D%E7%A8%BC%E5%83%8D%E6%96%B9%E6%B3%95/image.png)
+    ![image.png](アプリ再稼働方法/image.png)
     
 8. sudo systemctl start nginx
 ・nginxの再起動
