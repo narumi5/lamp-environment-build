@@ -96,7 +96,9 @@
 4. 指定されたNTPサーバーを追加
 
 server [ntp1.jst.mfeed.ad.jp](http://ntp1.jst.mfeed.ad.jp/) iburst
+
 server [ntp2.jst.mfeed.ad.jp](http://ntp2.jst.mfeed.ad.jp/) iburst
+
 server [ntp3.jst.mfeed.ad.jp](http://ntp3.jst.mfeed.ad.jp/) iburst
 
 ※ iburstとburstの説明
